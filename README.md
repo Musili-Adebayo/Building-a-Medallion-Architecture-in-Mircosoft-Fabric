@@ -4,7 +4,7 @@
 
 ##  Project Summary
 For this project, I created the Medallion Architecture for data organisation in a lakehouse in Microsoft Fabric. I demonstrated how to level up your data quality from bronze (raw), to silver (validated), and finally to gold (enriched), all ready for super-efficient analytics.
- This was my presentation for the [Microsoft Fabric Nigeria Community](https://community.fabric.microsoft.com/t5/Microsoft-Fabric-Nigeria/gh-p/MicrosoftFabricNigeria) and [dbrownconsulting](https://www.linkedin.com/posts/dbrownconsulting_analyticsmeetup-dbrownconsulting-microsoftfabric-activity-7255201470994673668-hX6G?utm_source=share&utm_medium=member_desktop) on 26th of October 2024. 
+This was my in-person presentation for the [Microsoft Fabric Nigeria Community](https://community.fabric.microsoft.com/t5/Microsoft-Fabric-Nigeria/gh-p/MicrosoftFabricNigeria) and [dbrownconsulting](https://www.linkedin.com/posts/dbrownconsulting_analyticsmeetup-dbrownconsulting-microsoftfabric-activity-7255201470994673668-hX6G?utm_source=share&utm_medium=member_desktop) on 26th of October 2024. 
 
 1. Created Lakehouse
 2. Data Ingestion. 
