@@ -12,3 +12,7 @@ For this project, I created the Medallion Architecture for data organisation in 
 4. Gold Data Transformation.
 5. Data Modelling.
 6. Data Visualization in Power BI Service.
+
+
+## Creating Lakehouse: 
+Datasource: Data was sourced from the popular adventure works data you can [download here](https://github.com/Musili-Adebayo/Building-a-Medallion-Architecture-in-Mircosoft-Fabric/tree/main/Sample_Adventureworks_Dataset).
