@@ -3,8 +3,8 @@
 ![[Architecture](https://github.com/Musili-Adebayo/Bing-New-Search---End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric./blob/main/Olympic%20Games%20Paris%202024%20News.png](https://github.com/Musili-Adebayo/Building-a-Medallion-Architecture-in-Mircosoft-Fabric/blob/main/Medallion%20Architecture.jpg)
 
 ##  Project Summary
-For this project, I created the Medallion Architecture for data organisation in a lakehouse in Micrososoft Fabric. This was my presentation for the [Microsoft Fabric Nigeria Community](https://community.fabric.microsoft.com/t5/Microsoft-Fabric-Nigeria/gh-p/MicrosoftFabricNigeria) and dbrownconsulting [dbrownconsulting](https://www.linkedin.com/posts/dbrownconsulting_analyticsmeetup-dbrownconsulting-microsoftfabric-activity-7255201470994673668-hX6G?utm_source=share&utm_medium=member_desktop
-) 
+For this project, I created the Medallion Architecture for data organisation in a lakehouse in Microsoft Fabric. I demonstrated how to level up your data quality from bronze (raw), to silver (validated), and finally to gold (enriched), all ready for super-efficient analytics. ![image](https://github.com/user-attachments/assets/b6dfe669-de85-476d-8f89-95e6ac444818)
+ This was my presentation for the [Microsoft Fabric Nigeria Community](https://community.fabric.microsoft.com/t5/Microsoft-Fabric-Nigeria/gh-p/MicrosoftFabricNigeria) and [dbrownconsulting](https://www.linkedin.com/posts/dbrownconsulting_analyticsmeetup-dbrownconsulting-microsoftfabric-activity-7255201470994673668-hX6G?utm_source=share&utm_medium=member_desktop) on 26th of October 2024. 
 
 1. Created Lakehouse
 2. Data Ingestion. 
