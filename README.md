@@ -27,6 +27,9 @@ In Synapse Data Engineering, create three Lakehouses called Sales_Bronze, Sales_
 
 
  ## Silver Data Transformation.
-In the Sales_Silver Lakehouse, click on new Notebook to transform data for the Sales_Silver Lakehouse or you can import the [Silver_Data_Transformation](https://github.com/Musili-Adebayo/Building-a-Medallion-Architecture-in-Mircosoft-Fabric/blob/main/Sales_Silver.png) 
+In the Sales_Silver Lakehouse, click on new Notebook to transform data for the Sales_Silver Lakehouse or you can import the 
+[Silver_Data_Transformation Notebook](https://github.com/Musili-Adebayo/Building-a-Medallion-Architecture-in-Mircosoft-Fabric/blob/main/Silver_Data_Transformation.ipynb) 
 
-![Silver_Data_Transformation](https://github.com/Musili-Adebayo/Building-a-Medallion-Architecture-in-Mircosoft-Fabric/blob/main/Silver_Data_Transformation.ipynb) 
+![Silver_Data_Transformation](https://github.com/Musili-Adebayo/Building-a-Medallion-Architecture-in-Mircosoft-Fabric/blob/main/Sales_Silver.png) 
+
+
