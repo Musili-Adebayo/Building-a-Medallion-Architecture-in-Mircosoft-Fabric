@@ -39,6 +39,10 @@ In the Sales_Gold Lakehouse, click on new Notebook to transform data for the Sal
 
 ![Sales_Gold](https://github.com/Musili-Adebayo/Building-a-Medallion-Architecture-in-Mircosoft-Fabric/blob/main/Sales_Gold.png) 
 
+ ## Data Modelling.
+Now that we have the final data in the Sales_Gold Lakehouse, we need to model the semantic data before visualization in Power BI.
+![Data Modelling](https://github.com/Musili-Adebayo/Building-a-Medallion-Architecture-in-Mircosoft-Fabric/blob/main/Data%20Modelling.png). 
 
-
+## Data Visualization in Power BI.
+In Microsoft Fabric, you can auto-create Power BI reports for your analysis.
 
